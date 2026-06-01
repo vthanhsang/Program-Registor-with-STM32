@@ -117,6 +117,8 @@ git clone https://github.com/your-username/Program-Registor-with-STM32.git
 
 ---
 
+![Real hardware](./images/mach.png)
+
 # 👨‍💻Author
 
 Thanh Sang
