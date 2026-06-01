@@ -4,7 +4,7 @@ Program Register-Level Programming with STM32G431CBU6 using SPI, I2C, and UART c
 
 ---
 
-## Introduction
+## 📖Introduction
 
 This project is created for learning and practicing **Embedded Systems** and **Bare-Metal Programming** using the **STM32G431CBU6** microcontroller.
 
@@ -20,7 +20,7 @@ with several external peripherals and sensors.
 
 ---
 
-## Hardware Used
+## 🛠️Hardware Used
 
 ### Microcontroller
 - STM32G431CBU6
@@ -36,7 +36,7 @@ with several external peripherals and sensors.
 
 ---
 
-## Development Environment
+## 💻Development Environment
 
 - IDE: STM32CubeIDE
 - Language: C
@@ -45,7 +45,7 @@ with several external peripherals and sensors.
 
 ---
 
-# Features
+# ✨Features
 
 ## SPI Communication
 Interface STM32 with MAX6675 using direct register programming.
@@ -80,7 +80,7 @@ Transmit data between STM32 and ESP32.
 
 ---
 
-# Objectives
+# 🎯Objectives
 
 * Learn STM32 peripheral registers
 * Understand low-level embedded programming
@@ -90,9 +90,9 @@ Transmit data between STM32 and ESP32.
 
 ---
 
-# Getting Started
+# 🚀Getting Started
 
-## Clone Repository
+## 📥Clone Repository
 
 ```bash
 git clone https://github.com/your-username/Program-Registor-with-STM32.git
@@ -100,7 +100,7 @@ git clone https://github.com/your-username/Program-Registor-with-STM32.git
 
 ---
 
-## Open Project
+## ▶️Open Project
 
 1. Open STM32CubeIDE
 2. Import Existing Project
@@ -109,7 +109,7 @@ git clone https://github.com/your-username/Program-Registor-with-STM32.git
 
 ---
 
-# Example Applications
+# 🧪Example Applications
 
 * Read temperature from MAX6675 using SPI
 * Read pressure and temperature from BMP280 using I2C
@@ -117,7 +117,7 @@ git clone https://github.com/your-username/Program-Registor-with-STM32.git
 
 ---
 
-# Author
+# 👨‍💻Author
 
 Thanh Sang
 Embedded Systems & Bare-Metal STM32 Development
