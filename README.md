@@ -127,6 +127,3 @@ Embedded Systems & Bare-Metal STM32 Development
 # License
 
 This project is developed for educational purposes.
-
-```
-```
