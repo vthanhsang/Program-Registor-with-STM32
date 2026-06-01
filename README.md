@@ -1,4 +1,3 @@
-````md
 # Program-Registor-with-STM32
 
 Program Register-Level Programming with STM32G431CBU6 using SPI, I2C, and UART communication protocols.
